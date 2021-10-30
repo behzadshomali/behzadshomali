@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**behzadshomali/behzadshomali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏷️  My name is <b>Behzad Shomali</b>
+- 🎓  Undergraduate <i>Computer Engineering</i> student
+- 📚  Highly interested in <i>Deep Learning</i> & <i>Computer Vision</i>
+- 🤓  Currently learning about <i>GANs</i>!
+- 👨🏻‍💻  Superfan of Python!
+- ☕️  Coffee lover!
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="#">
+    <img
+        width="45%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzadshomali&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages&langs_count=10"
+    />
+        </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Let's get in touch:</h2>
+<p align="left">
+    <a href="https://www.linkedin.com/in/behzad-shomali-59679859/">
+        <img align="left" alt="linkdin" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+    </a>
+  
+  <a href="mailto: behzad.shomali@gmail.com">
+        <img align="left" alt="email" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+    </a>
+  
+  <a href="https://scholar.google.com/citations?user=l-BkqQ8AAAAJ&hl=en&oi=ao">
+        <img align="left" alt="scholar" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+    </a>
+  
+  <a href="https://www.researchgate.net/profile/Behzad_Shomali">
+        <img align="left" alt="researchgate" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+    </a>
+</p>
