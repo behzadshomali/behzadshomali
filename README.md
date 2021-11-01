@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
 
 - 🏷️  My name is <b>Behzad Shomali</b>
 - 🎓  Undergraduate <i>Computer Engineering</i> student
@@ -8,6 +8,7 @@
 - ☕️  Coffee lover!
 
 <h3 align="left">Let's be in touch:</h3>
+
 <p align="left">
     
   <a href="mailto: behzad.shomali@gmail.com">
@@ -57,17 +58,18 @@
 ---
 
 <p align="center">
+<!-- Taken from https://github.com/anuraghazra/github-readme-stats -->
     <a href="#">
-    <img
-        width="48%"
-        src="https://github-readme-stats.vercel.app/api?username=behzadshomali&theme=tokyonight&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true"
-    />
-        </a>
+        <img
+            width="48%"
+            src="https://github-readme-stats.vercel.app/api?username=behzadshomali&theme=tokyonight&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true"
+        />
+    </a>
     <a href="#">
-    <img
-        width="40%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzadshomali&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages&langs_count=10"
-    />
+        <img
+            width="40%"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzadshomali&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages&langs_count=10"
+        />
         </a>
 </p>
 
