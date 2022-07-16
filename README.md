@@ -19,13 +19,6 @@
              src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png">
     </a>
     
-   <a href="https://behzadshomali.wixsite.com/home">
-        <img align="left" 
-             alt="website" 
-             title="Personal Website"
-             width="4%" 
-             src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png">
-    </a>
     
   <a href="https://www.linkedin.com/in/behzad-shomali-59679859/">
         <img align="left" 
