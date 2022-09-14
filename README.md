@@ -1,9 +1,8 @@
 <h1>Hi there 👋</h1>
 
 - 🏷️  My name is <b>Behzad Shomali</b>
-- 🎓  Undergraduate <i>Computer Engineering</i> student
+- 🎓  Graduated <i>Computer Engineering</i> student
 - 📚  Highly interested in <i>Deep Learning</i> & <i>Computer Vision</i>
-- 🤓  Currently learning about <i>GANs</i>!
 - 👨🏻‍💻  Superfan of Python!
 - ☕️  Coffee lover!
 
@@ -27,14 +26,6 @@
              width="4%" 
              src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png">
     </a>
-    
-  <a href="https://scholar.google.com/citations?user=l-BkqQ8AAAAJ&hl=en&oi=ao">
-        <img align="left" 
-             alt="google scholar" 
-             title="Google Scholar"
-             width="4%" 
-             src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png">
-    </a>
   
   <a href="https://www.researchgate.net/profile/Behzad_Shomali">
         <img align="left" 
@@ -43,6 +34,15 @@
              width="4%" 
              src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png">
     </a>
+    
+  <a href="https://twitter.com/behzadshomali">
+      <img align="left" 
+           alt="twitter" 
+           title="Twitter"
+           width="4%" 
+           src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579583-yumminkysocialmedia02_83111.png">
+    </a>
+    
 </p>
 
 </br>
