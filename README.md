@@ -1,12 +1,12 @@
 <h1>Hi there 👋</h1>
 
 - 🏷️  My name is <b>Behzad Shomali</b>
-- 🎓  Graduated <i>Computer Engineering</i> student
+- 🎓  Master's degree student of <i>Computer Science</i>
 - 📚  Highly interested in <i>Deep Learning</i> & <i>Computer Vision</i>
 - 👨🏻‍💻  Superfan of Python!
 - ☕️  Coffee lover!
 
-<h3 align="left">Let's be in touch:</h3>
+<h3 align="left">Let's keep in touch:</h3>
 
 <p align="left">
     
